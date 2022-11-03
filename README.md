@@ -1,5 +1,6 @@
 # get_next_line
 
+
 ## Summary
 ```
 This project is about programming a function that returns a line read from a file descriptor.
@@ -13,6 +14,8 @@ This task is crucial to understand for a future programmer since much of the tim
 for data management and persistence.
 This project consists of coding a function that returns one line at a time from a text file.
 ```
+You can read the project subject [here](https://github.com/jlima91/get_next_line_42/blob/master/get_next_line.pdf)
+
 
 ## Usage
 
@@ -32,3 +35,5 @@ When compiling your code, add the source files and the required flag:
 ```
 get_next_line.c get_next_line_utils.c -D BUFFER_SIZE=<size>
 ```
+
+You can read the project subject [here](https://github.com/jlima91/get_next_line_42/blob/master/get_next_line.pdf)
